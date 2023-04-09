@@ -50,5 +50,5 @@ and three photos that were correctly predicted as women.
   </tr>
 </table>
 
-##Conclusion 
+## Conclusion 
 In conclusion, we have developed a Convolutional Neural Network model using various architectures and optimizers to classify male and female images. The best accuracy was achieved using the RMSprop optimizer. We also experimented with transfer learning using VGG16 and saw a slight improvement in performance. The model was able to accurately predict gender even with varying facial expressions and the presence of glasses. This project can be further improved by exploring additional techniques such as data augmentation and fine-tuning
