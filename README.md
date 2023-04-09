@@ -6,7 +6,7 @@ The objective of this project is to develop a Convolutional Neural Network (CNN)
 
 As a visual representation of our data, we provide samples of five male images from our dataset, as shown in Figure 1.
 
-![Sample male images from the dataset](<https://drive.google.com/file/d/1CILznRzK9lOQgoy2PDUZdrDglNTL5pzj/view>)
+![Sample male images from the dataset](<https://photos.google.com/album/AF1QipMrRltYXYRehcS4SaWFZJtDBl99AWplH8237mvH/photo/AF1QipNKr-0l2cHdmR3jEdbb-OTVq2SClnJqxC2xREQW>)
 
 
 Similarly, we also provide samples of five female images from our dataset, as shown in Figure 2.
